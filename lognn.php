@@ -77,7 +77,7 @@ li a:hover:not(.active) {
 
 <div class="one" >
 <h2> Login Form </h2>
-<form id="form_id" method="post" action="lognn_action.php" name="myform">
+<form id="form_id" method="post" action="log_act.php" name="myform">
 <label>User Name :</label>
 <input type="text" name="username" id="username"/>
 <br/>
