@@ -25,7 +25,7 @@ h1
     border: 2px solid black;
     text-align: center;
     padding-top: 30px;
-    background-color:DarkCyan; /* light green */;  
+    background-color:DarkCyan;
 }
 li
 {
